@@ -37,4 +37,5 @@
 |Ctrl + Shift + ^|E|
 |Ctrl + Shift + $|Currency of current region|
 |Ctrl + Shift + &|Fill the border|
-|Ctrl + Shift + _|Fill|
+|Ctrl + Shift + _|Unfill the border|
+
