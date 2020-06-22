@@ -18,5 +18,5 @@
 ## Ctrl keys
 |Keys|Description|
 |---|---|
-|Ctrl + Arrow / Space|select multi files that are not sequntial|
+|Ctrl + Arrow / Space|select multi files that are not sequential|
 |Ctrl + Shift + ESC|Task manager|
