@@ -20,3 +20,8 @@
 |---|---|
 |Ctrl + Arrow / Space|select multi files that are not sequential|
 |Ctrl + Shift + ESC|Task manager|
+
+## Alt Keys
+|Keys|Description|
+|---|---|
+|Alt + Enter|Show files properties|
