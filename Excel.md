@@ -16,7 +16,7 @@
 |---|---|
 |Ctrl + Home|Move to A1|
 |Ctrl + End|Move to end|
-|F5|Locate and select range|
+|F5 or Ctrl + G|Locate and select range|
 |Ctrl + Shift + Space|Select data block|
 
 ## Editing the cell
