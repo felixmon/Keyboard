@@ -36,6 +36,19 @@
 |Ctrl + Shift + ~|Normal|
 |Ctrl + Shift + ^|E|
 |Ctrl + Shift + $|Currency of current region|
-|Ctrl + Shift + &|Fill the border|
-|Ctrl + Shift + _|Unfill the border|
 
+## Border
+|Keys|Description|
+|---|---|
+|Ctrl + Shift + &|Fill the border|
+|Ctrl + Shift + _ |Unfill the border|
+After Ctrl + 1
+|Alt + T|Upper border|
+|Alt + B|Bottom border|
+|Alt + L|Left border|
+|Alt + R|Rigth border|
+
+## Calculation
+|Keys|Description|
+|---|---|
+|Alt + =|Sum|
