@@ -27,3 +27,14 @@
 |Ctrl + R|Fill to the right|
 |Ctrl + -|Deletion|
 |Ctrl + Shift + +|Insertion|
+
+## Format the cell
+|Keys|Description|
+|---|---|
+|Ctrl + 1|Format settings|
+|Ctrl + Shift + %|Percentage|
+|Ctrl + Shift + ~|Normal|
+|Ctrl + Shift + ^|E|
+|Ctrl + Shift + $|Currency of current region|
+|Ctrl + Shift + &|Fill the border|
+|Ctrl + Shift + _|Fill|
