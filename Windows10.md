@@ -1,4 +1,4 @@
-# Shortcus of Windows 10
+# Shortcuts of Windows 10
 
 ## Windows Keys
 |Keys|Description|
