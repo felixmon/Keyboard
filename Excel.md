@@ -56,4 +56,4 @@ After Ctrl + 1
 ## MISC
 |Keys|Description|
 |---|---|
-|F6 + tab + space|Enable editing|
+|F6, tab, space|Enable editing|
