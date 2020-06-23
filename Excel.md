@@ -52,3 +52,8 @@ After Ctrl + 1
 |Keys|Description|
 |---|---|
 |Alt + =|Sum|
+
+## MISC
+|Keys|Description|
+|---|---|
+|F6 + tab + space|Enable editing|
