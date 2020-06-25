@@ -1,5 +1,5 @@
 
-# Shortcuts ofMacOS
+# Shortcuts of MacOS
 
 ## Finder
 |Keys|Description|
