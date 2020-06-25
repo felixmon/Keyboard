@@ -25,3 +25,8 @@
 |Keys|Description|
 |---|---|
 |Alt + Enter|Show files properties|
+
+## Chrome Keys
+|Keys|Description|
+|---|---|
+|Alt + left/right arrow|Navigation forward/backward|
