@@ -7,7 +7,7 @@
 |Command + Shift + left/right arrow|Switch between tabs|
 
 
-## Finder
+## Chrome
 |Keys|Description|
 |---|---|
 |Command + left/right arrow|Switch between tabs|
