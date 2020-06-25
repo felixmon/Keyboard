@@ -10,4 +10,4 @@
 ## Chrome
 |Keys|Description|
 |---|---|
-|Command + left/right arrow|Switch between tabs|
+|Command + Alt + left/right arrow|Switch between tabs|
