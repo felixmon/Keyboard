@@ -20,6 +20,7 @@
 |---|---|
 |Ctrl + Arrow / Space|select multi files that are not sequential|
 |Ctrl + Shift + ESC|Task manager|
+|Ctrl + Arrow, Release, Space|Select non-adjacent files|
 
 ## Alt Keys
 |Keys|Description|
