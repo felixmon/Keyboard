@@ -31,3 +31,6 @@
 |Keys|Description|
 |---|---|
 |Alt + left/right arrow|Navigation forward/backward|
+
+## Sort files in Explorer
+Ctrl + F5
