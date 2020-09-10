@@ -4,6 +4,7 @@
 
 常见错误：文件夹或文件已在另一程序中打开，无法删除和修改  
 解决： 
+
 ![pic1](https://img-blog.csdnimg.cn/20190516015402346.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3podXpiWVI=,size_16,color_FFFFFF,t_70)
 
 1. CTRL + ALT + DEL
