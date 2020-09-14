@@ -39,4 +39,4 @@ Ctrl + F5
 |Keys|Description|
 |---|---|
 |Minimize current window|Win key + Down arrow (twice)|
-|Navigation the system tray|Win key + |
+|Navigation the system tray|Win key + B|
