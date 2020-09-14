@@ -34,3 +34,9 @@
 
 ## Sort files in Explorer
 Ctrl + F5
+
+## Control the size of windows
+|Keys|Description|
+|---|---|
+|Minimize current window|Win key + Down arrow (twice)|
+|Navigation the system tray|Win key + |
